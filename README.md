@@ -7,7 +7,7 @@ Each task is self-contained with its own dataset and Jupyter notebook, making it
 ---
 
 ## 📌 **Task 1 — Pricing Model Prototype**
-**Folder:** `Task1_Pricing_Model`  
+**Folder:** `Pricing_Model`  
 **Files:** 
 - `Pricing_Model_Prototype.ipynb`
 - `Nat_Gas.csv`
@@ -21,8 +21,9 @@ It demonstrates:
 ---
 
 ## 📌 **Task 2 — Natural Gas Price Forecast**
-**Folder:** `Task2_Natural_Gas_Forecast`  
+**Folder:** `Natural_Gas_Forecast`  
 **Files:**
+- `Nat_Gas(1).csv`
 - `Natural_gas_price_estimate.ipynb`
 - `Natural Gas Price History.png`
 
@@ -31,12 +32,12 @@ This analysis explores **historical natural gas prices** and forecasts future tr
 **Key Outputs:**
 - Historical price visualization
 - 1-year price forecast  
-![Natural Gas Price History](Task2_Natural_Gas_Forecast/Natural%20Gas%20Price%20History.png)
+![Natural Gas Price History](Natural%20Gas%20Forecast/Natural%20Gas%20Price%20History.png)
 
 ---
 
 ## 📌 **Task 3 — Probability of Default (PD) Model**
-**Folder:** `Task3_PD_Model`  
+**Folder:** `PD_Model`  
 **Files:**
 - `Probability_of_Default.ipynb`
 - `Task 3 and 4_Loan_Data.csv`
@@ -51,11 +52,11 @@ Key concepts:
 ---
 
 ## 📌 **Task 4 — FICO Score Bucketing**
-**Folder:** `Task4_FICO_Bucketing`  
+**Folder:** `FICO_Bucketing`  
 **Files:**
 - `FICO_distribution.ipynb`
 - `FICO distribution.png`
-
+- `Task 3 and 4_Loan_Data.csv`
 This task segments **FICO scores** into risk categories using **SSE-based bucketing**.  
 Categories include:
 - Poor
@@ -65,7 +66,7 @@ Categories include:
 - Excellent
 
 **Output Plot:**  
-![FICO Score Distribution](FICO_Bucketing/FICO%20distribution.png)
+![FICO Distribution](FICO%20bucketing/FICO%20distribution.png)
 
 ---
 
